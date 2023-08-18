@@ -22,7 +22,6 @@
   Im a web and android developer👨🏽‍💻.  
   I also really love experiamenting with other languages and technologies beyond my stack🚀.  
   I am particulary interested in Algorithms. Understanding the best implementation of an algorithm to achieve best runtimes given diferent conditions  
-  I secretely enjoy UX/UI too much🤫
 
 # Technologies and Languages
   <div>
