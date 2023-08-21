@@ -1,6 +1,8 @@
+![Github logo 2](https://github.com/VictorCodebase/VictorCodebase/assets/135356007/a5266742-8a25-4c64-b601-bec289f6ed4e)
+
 
 <div id="header" align="center">
-  <h1>victor<span color = "red">Codebase</span></h1>
+
   <img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="200"/>
 </div>
 
