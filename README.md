@@ -22,7 +22,7 @@
 
 # About me
   Im a web and android developer👨🏽‍💻.  
-  I also really love experiamenting with other languages and technologies beyond my stack🚀.  
+  I also really enjoy experiamenting with other languages and technologies beyond my stack🚀.  
   I am particulary interested in Algorithms. Understanding the best implementation of an algorithm to achieve best runtimes given diferent conditions  
 
 # Technologies and Languages
