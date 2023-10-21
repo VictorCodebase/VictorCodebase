@@ -26,6 +26,19 @@
   I am particulary interested in Algorithms. Understanding the best implementation of an algorithm to achieve best runtimes given diferent conditions  
   I also lov💖 UI design. Its so fun! literally the best
 
+<table>
+  <tr>
+    <td><img src="certificate1.jpg" alt="Certificate 1"></td>
+    <td><img src="certificate2.jpg" alt="Certificate 2"></td>
+    <td><img src="certificate3.jpg" alt="Certificate 3"></td>
+  </tr>
+  <tr>
+    <td><a href="verify1.html">Certificate 1 Name</a></td>
+    <td><a href="verify2.html">Certificate 2 Name</a></td>
+    <td><a href="verify3.html">Certificate 3 Name</a></td>
+  </tr>
+</table>
+
 # Technologies and Languages
   <div>
     <p align="center"> 
