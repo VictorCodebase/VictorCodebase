@@ -93,6 +93,21 @@ Figma</a></td>
 
 # Upcoming Releases
 
-## Pixel Adventure
+
+## 1. Pixel Adventure
+Pixel adventure is an adventure/puzzle 2d game giving Super Mario vibes!!  
+
+This is game reflects my interest in adventure games like tomb raider and uncharted. Both of which engage the gamer in mind engaging conflicts and puzzles.
+I welcome contributions! 
+
+### Screen recordings
+
+
+https://github.com/VictorCodebase/VictorCodebase/assets/135356007/e98b3665-10ba-4b0f-8a01-e92c94b56fb1
+
+
+## 2. Multi-viewer
+Keep the suspense😉
+
   
 
