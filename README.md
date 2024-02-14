@@ -2,9 +2,10 @@
 
 
 <div id="header" align="center">
-
   <img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="200"/>
 </div>
+
+
 
 
 <div id="badges" align = "center">
@@ -19,7 +20,8 @@
   </a>
 </div>
 
-
+# Badges
+  <a href="https://www.credly.com/badges/63813a12-dd67-41fc-a2bb-eef02912e696/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/VictorCodebase/VictorCodebase/assets/135356007/f034a4c7-7672-4bb5-834b-787da931b0fd" alt="Contribution badge" width="100" height="100"/> </a>
 
 # About me
   Im a web and android developer👨🏽‍💻.  
