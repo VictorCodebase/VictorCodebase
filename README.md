@@ -31,8 +31,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorcodebase&theme=tokyonight" alt="mystreak"/>  
 
-[![Mark Victor's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcodebase&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/victorcodebase/github-readme-stats)
-
 
 # Certifications
 <table align="center">
