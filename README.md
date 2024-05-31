@@ -21,7 +21,18 @@
 </div>
 
 # Badges
-  <a href="https://www.credly.com/badges/63813a12-dd67-41fc-a2bb-eef02912e696/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/VictorCodebase/VictorCodebase/assets/135356007/f034a4c7-7672-4bb5-834b-787da931b0fd" alt="Contribution badge" width="130" height="130"/> </a>
+<table align="center">
+  <tr>
+    <td><a href="https://www.credly.com/badges/63813a12-dd67-41fc-a2bb-eef02912e696/public_url" target="_blank" rel="noreferrer"><img src="https://github.com/VictorCodebase/VictorCodebase/assets/135356007/f034a4c7-7672-4bb5-834b-787da931b0fd" alt="Contribution badge" width="130" height="120"></a></td>
+    <td><a href="https://learn.microsoft.com/api/achievements/share/en-us/MarkKithinji-9759/NZBK5DXF?sharingId=447E623FC6BA2D63"><img src="https://github.com/VictorCodebase/VictorCodebase/assets/135356007/4a137041-1d2a-45e2-bc8a-cc0d510b1cc3" alt="Microsoft Badge" style="width: 150px; height: auto;"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.credly.com/badges/63813a12-dd67-41fc-a2bb-eef02912e696/public_url" target="_blank" rel="noreferrer">Microsoft Open Source Contributor</a></td>
+    <td><a href="https://learn.microsoft.com/api/achievements/share/en-us/MarkKithinji-9759/NZBK5DXF?sharingId=447E623FC6BA2D63">Fundamental AI concepts</a></td>
+  </tr>
+</table>
+
+  
 
 # About me
   Im a web and android developer👨🏽‍💻.  
