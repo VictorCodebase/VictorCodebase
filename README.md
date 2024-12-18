@@ -1,11 +1,8 @@
 ![Github logo 2](https://github.com/VictorCodebase/VictorCodebase/assets/135356007/a5266742-8a25-4c64-b601-bec289f6ed4e)
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="200"/>
 </div>
-
-
 
 
 <div id="badges" align = "center">
@@ -31,14 +28,17 @@
     <td><a href="https://learn.microsoft.com/api/achievements/share/en-us/MarkKithinji-9759/NZBK5DXF?sharingId=447E623FC6BA2D63">Monitor Azure AI services</a></td>
   </tr>
 </table>
+
 # About me
-  Im a web and android developer👨🏽‍💻.  
-  I also really enjoy experimenting with other languages and technologies beyond my stack🚀.  
-  I am particulary interested in Algorithms. Understanding the best implementation of an algorithm to achieve best runtimes given diferent conditions  
-  I also lov💖 UI design. Its so fun! literally the best
+  - Im a web and android developer👨🏽‍💻.  
+  - I also really enjoy experimenting with other languages and technologies beyond my stack.  
+  - I am particulary interested in Algorithms. Understanding the best implementation of an algorithm to achieve best runtimes given diferent conditions
 
+Interested in collaborating with me on a project? Please reach out via LinkedIn
+
+<div id="header" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorcodebase&theme=tokyonight" alt="mystreak"/>  
-
+</div>
 
 # Certifications
 <table align="center">
