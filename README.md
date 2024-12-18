@@ -98,3 +98,15 @@ In underprivileged communities worldwide, small-scale farmers face inequitable a
 
 ## 2. Association of France Alumni in Kenya (web-app)
 
+### Project Contributors
+- [Mark Victor Kithinji](https://www.linkedin.com/in/rony-maruga-a7603b2a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
+- [Samuel Gicheha](https://www.linkedin.com/in/sirgicheha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
+- [Allan Njoroge](https://www.linkedin.com/in/allan-njoroge-868542309/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
+- [Derrick Richard](https://www.linkedin.com/in/derickrichards/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
+- [Rony Maruga](https://www.linkedin.com/in/rony-maruga-a7603b2a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
+
+### Solution
+
+
+
+
