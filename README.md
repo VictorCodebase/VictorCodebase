@@ -87,7 +87,11 @@ In underprivileged communities worldwide, small-scale farmers face inequitable a
 ### Project Contributors/ Maintainers
 - [Stephanjosh](https://github.com/stephanjosh)
 - [VictorCodebase](https://github.com/victorcodebase)
-   
+
+### Technologies implemented
+- React Native
+- WatsonX Machine Learning
+- Llama Large Language Model
 
 ### 🤖 Solution  
 | Home Screen | Crop Prediction | Your Account |
@@ -106,6 +110,16 @@ In underprivileged communities worldwide, small-scale farmers face inequitable a
 - [Rony Maruga](https://www.linkedin.com/in/rony-maruga-a7603b2a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
 
 ### Solution
+<div align="center">
+
+| Galerie |
+|---------|
+| <img src="https://github.com/user-attachments/assets/7bfda31a-e3e1-4c65-bda0-96d722da4920" width="700"> |
+| <img src="https://github.com/user-attachments/assets/f55f82dd-9043-4d08-90f5-60b6dadcaade" width="700"> |
+| <img src="https://github.com/user-attachments/assets/0e570327-1bf8-4a50-82ad-ea2dafa57d42" width="700"> |
+
+</div>
+
 
 
 
