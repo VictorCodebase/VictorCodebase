@@ -1,4 +1,4 @@
-![Github logo 2](https://github.com/VictorCodebase/VictorCodebase/assets/135356007/a5266742-8a25-4c64-b601-bec289f6ed4e)
+<!-- ![Github logo 2](https://github.com/VictorCodebase/VictorCodebase/assets/135356007/a5266742-8a25-4c64-b601-bec289f6ed4e) -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="200"/>
@@ -116,9 +116,11 @@ In underprivileged communities worldwide, small-scale farmers face inequitable a
 |---------|
 | <img src="https://github.com/user-attachments/assets/7bfda31a-e3e1-4c65-bda0-96d722da4920" width="700"> |
 | <img src="https://github.com/user-attachments/assets/f55f82dd-9043-4d08-90f5-60b6dadcaade" width="700"> |
-| <img src="https://github.com/user-attachments/assets/0e570327-1bf8-4a50-82ad-ea2dafa57d42" width="700"> |
 
 </div>
+
+## 3. Ecopulse Alliance (Web App)
+
 
 
 
