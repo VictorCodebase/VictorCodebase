@@ -72,50 +72,29 @@ Figma</a></td>
 </table>
 
 
-
-# Technologies and Languages
-  <div>
-    <p align="center"> 
-      <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-      <a href="[https://www.w3schools.com/cs/](https://dotnet.microsoft.com/en-us/)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="40" height="40"/> </a> 
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-      <a href="https://flame-engine.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/6718144/101553774-3bc7b000-39ad-11eb-8a6a-de2daa31bd64.png" alt="flame" width="40" height="40"/> </a> 
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    </p>
-    
-  </div>
-  <div>
-    <p align="center"> 
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>      
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-      <a href="https://www.mapeditor.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.aQCy4DCVZkBMfoLpO2ON2wAAAA?pid=ImgDet&rs=1" alt="Tiled mapeditor" width="40" height="40"/> </a>
-    </p>
-  </div>
-
-# Upcoming Releases
+# Latest Releases🔥
 
 
-## 1. Pixel Adventure
-Pixel adventure is an adventure/puzzle 2d game giving Super Mario vibes!!  
-
-This is game reflects my interest in adventure games like tomb raider and uncharted. Both of which engage the gamer in mind engaging conflicts and puzzles.
-I welcome contributions! 
-
-### Screen recordings
+## 1. MeadowAI
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/e77de4c7-3492-4267-99af-024d2c723202" alt="Meadow AI project header" style="border-radius: 13;"/>
+</p>
 
 
-https://github.com/VictorCodebase/VictorCodebase/assets/135356007/e98b3665-10ba-4b0f-8a01-e92c94b56fb1
+### 🌍 The Issue MeadowAI Is Hoping to Solve
+In underprivileged communities worldwide, small-scale farmers face inequitable access to crucial agricultural information, the result? Multiple farmers growing the same crops a region. This oversaturation every harvest season drives prices down essentially tying farmers in a cycle of poverty.
+
+### Project Contributors/ Maintainers
+- [Stephanjosh](https://github.com/stephanjosh)
+- [VictorCodebase](https://github.com/victorcodebase)
+   
+
+### 🤖 Solution  
+| Home Screen | Crop Prediction | Your Account |
+|-------------|-----------------|--------------|
+| <img src="https://github.com/user-attachments/assets/7562ba04-d246-4fe0-83bf-0787e809f3d4" width="300"> | <img src="https://github.com/user-attachments/assets/31d372ea-6106-418c-837a-81d6252f66df" width="300"> | <img src="https://github.com/user-attachments/assets/16a09bed-101f-4f44-bd65-92879e65262f" width="300"> |
 
 
-## 2. Multi-viewer
-Keep the suspense😉
 
-  
+## 2. Association of France Alumni in Kenya (web-app)
 
