@@ -35,10 +35,9 @@
 </p>
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/markkithinji-9759/achievements?tab=tab-modules#trophies-section" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4dcbe796-b172-4b2c-a66d-6d1939604779" style="border-radius: 10px;" alt="Description of Image">
+    <img src="https://github.com/user-attachments/assets/4dcbe796-b172-4b2c-a66d-6d1939604779" style="border-radius: 10px;" alt="Description of Image">
   </a>
 </p>
-
 
 
 # About me
