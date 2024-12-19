@@ -31,7 +31,7 @@
 </table>
 
 <p align="center">
-  View all my Microsoft Learn training badges here👇🏽:
+  View all my Microsoft Learn training badges here (ctrl + click)👇🏽:
 </p>
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/markkithinji-9759/achievements?tab=tab-modules#trophies-section" target="_blank">
