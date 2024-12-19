@@ -17,6 +17,7 @@
   </a>
 </div>
 
+
 # Badges
 <table align="center">
   <tr>
@@ -28,6 +29,15 @@
     <td><a href="https://learn.microsoft.com/api/achievements/share/en-us/MarkKithinji-9759/NZBK5DXF?sharingId=447E623FC6BA2D63">Monitor Azure AI services</a></td>
   </tr>
 </table>
+
+<p align="center">
+  View all my Microsoft Learn training badges here👇🏽:
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4dcbe796-b172-4b2c-a66d-6d1939604779" style="border-radius: 10px;" alt="Description of Image">
+</p>
+
+
 
 # About me
   - Im a web and android developer👨🏽‍💻.  
