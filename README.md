@@ -95,9 +95,6 @@ Figma</a></td>
 ### 🌍 The Issue MeadowAI Is Hoping to Solve
 In underprivileged communities worldwide, small-scale farmers face inequitable access to crucial agricultural information, the result? Multiple farmers growing the same crops a region. This oversaturation every harvest season drives prices down essentially tying farmers in a cycle of poverty.
 
-### Project Contributors/ Maintainers
-- [Stephanjosh](https://github.com/stephanjosh)
-- [VictorCodebase](https://github.com/victorcodebase)
 
 ### Technologies implemented
 - React Native
