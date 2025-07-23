@@ -51,6 +51,23 @@ Interested in collaborating with me on a project? Please reach out via LinkedIn
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorcodebase&theme=tokyonight" alt="mystreak"/>  
 </div>
 
+---
+
+## 📚 Table of Contents
+
+* [About Me](#about-me)
+* [Badges](#badges)
+* [Certifications](#certifications)
+* [Latest Releases 🔥](#latest-releases)
+
+  * [1. MeadowAI](#1-meadowai)
+  * [2. Association of France Alumni in Kenya (AFRAKEN)](#2-association-of-france-alumni-in-kenya-web-app)
+  * [3. Ecopulse Alliance](#3-ecopulse-alliance-web-app)
+  * [4. Nyambene TV – Time Tracking App](#4-nyambene-tv---multi-user-time-tracking-application)
+
+---
+
+
 # Certifications
 <table align="center">
   <tr>
@@ -87,6 +104,7 @@ Figma</a></td>
 
 
 ## 1. MeadowAI
+<sub>Jan 2025</sub>
  <p align="center">
   <img src="https://github.com/user-attachments/assets/e77de4c7-3492-4267-99af-024d2c723202" alt="Meadow AI project header" style="border-radius: 13;"/>
 </p>
@@ -109,6 +127,9 @@ In underprivileged communities worldwide, small-scale farmers face inequitable a
 
 
 ## 2. Association of France Alumni in Kenya (web-app)
+<sub>August 2024</sub>
+
+Built a web application for the Association of France Alumni in Kenya ([AFRAKEN](afraken.org))
 
 ### Project Contributors
 - [Mark Victor Kithinji](https://www.linkedin.com/in/mark-kithinji-68aa14246/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FI56LPQwQmik23ZHYh3saQ%3D%3D)
@@ -118,6 +139,7 @@ In underprivileged communities worldwide, small-scale farmers face inequitable a
 - [Rony Maruga](https://www.linkedin.com/in/rony-maruga-a7603b2a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
 
 ### Solution
+Access the web app: [AFRAKEN](https://afraken.org/)
 <div align="center">
 
 | Galerie |
@@ -128,6 +150,36 @@ In underprivileged communities worldwide, small-scale farmers face inequitable a
 </div>
 
 ## 3. Ecopulse Alliance (Web App)
+<sub>September 2024</sub>
+
+After building the AFRAKEN web app, [Dr Ruth Oriama](https://www.linkedin.com/in/ruth-oriama/), a former Chair person for the Association impressed by our work, refered me to Ecopulse Alliance, a social impact initiative in East Africa.  
+I was tasked with building a web app for the Association.
+
+
+### Project Contributors
+
+- [Mark Victor Kithinji](https://www.linkedin.com/in/mark-kithinji-68aa14246/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FI56LPQwQmik23ZHYh3saQ%3D%3D)
+
+### Solution
+Access the web app: [Ecopulse Alliance](https://ecopulse.roriama.com/)
+<div align="center">
+
+| Galerie |
+|---------|
+| <img src="https://github.com/user-attachments/assets/2d159aac-e1f6-4386-a1b3-35f4faf1043c" width="700"> |
+| <img src="https://github.com/user-attachments/assets/16e4452c-e92f-4e1c-aecf-2d29e23bb23a" width="700"> |
+| <img src="https://github.com/user-attachments/assets/23ccdeae-3358-49fd-9876-447e95e97734" width="700"> |
+| <img src="https://github.com/user-attachments/assets/4a207bea-e4f4-4b99-96a6-b094d92171e0" width="700"> |
+
+
+
+</div>
+
+
+## 4. Nyambene TV - multi-user time-tracking application
+A web-based multi-user time-tracking application built on the [Kimai Open Source application](https://github.com/kimai/kimai) to handle a previously signup and role assignment process.  
+While working at Nyambene Tv as an attatche, I was assigned a role to assess the used manual employee signin and role management system and suggest a smarter solution
+
 
 
 
