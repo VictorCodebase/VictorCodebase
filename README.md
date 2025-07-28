@@ -80,10 +80,11 @@ Interested in collaborating with me on a project? Please reach out via LinkedIn
 </a></td>
     <td><a href="https://www.coursera.org/account/accomplishments/certificate/YFPULNNAMAZ5">Divide and Conquer, Sorting and Searching, <br>and
 Randomized Algorithms</a></td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/4BKD6DLKD3QE">Create High-Fidelity Designs<br> and Prototypes in
-Figma</a></td>
+    <td><a href="https://github.com/user-attachments/assets/9021148b-c40a-4289-9779-272ff717b25b">Natural Language Processing in TensorFlow</a></td>
   </tr>
 </table>
+
+
 
 <table align="center">
   <tr>
@@ -94,7 +95,8 @@ Figma</a></td>
   <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/certificate/BV4HXUE5AFKY">Foundations of User Experience (UX) Design
 </a></td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/BL32PHE6Q2ZU">Build Wireframes and Low-Fidelity Prototypes</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/certificate/4BKD6DLKD3QE">Create High-Fidelity Designs<br> and Prototypes in
+Figma</a></td>
     <td><a href="https://www.coursera.org/account/accomplishments/certificate/GEKSWYHTJ9D7">Build Dynamic User Interfaces (UI) for Websites</a></td>
   </tr>
 </table>
