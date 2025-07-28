@@ -73,14 +73,14 @@ Interested in collaborating with me on a project? Please reach out via LinkedIn
   <tr>
     <td><img src="https://user-images.githubusercontent.com/135356007/278609181-0e653377-63d2-4024-a3b3-6e9902872ecc.png" alt="Certificate 1" width="410px"></td>
     <td><img src="https://user-images.githubusercontent.com/135356007/278609168-6af2e4df-87cc-4b7d-8365-87a39357f6b4.png" alt="Certificate 2" width="410"></td>
-    <td><img src="https://github.com/VictorCodebase/VictorCodebase/assets/135356007/f8d65cb4-72a1-4897-989d-4d01b006360a" alt="Certificate 3" width="410"></td>
+    <td><img src="https://github.com/user-attachments/assets/0dcd6332-8af4-47b7-962f-2e8fae890ba6" alt="Certificate 3" width="410"></td>
   </tr>
   <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/certificate/B3BB2FCK5QLD">Graph Search, Shortest Paths, <br>and Data Structures
 </a></td>
     <td><a href="https://www.coursera.org/account/accomplishments/certificate/YFPULNNAMAZ5">Divide and Conquer, Sorting and Searching, <br>and
 Randomized Algorithms</a></td>
-    <td><a href="https://github.com/user-attachments/assets/9021148b-c40a-4289-9779-272ff717b25b">Natural Language Processing in TensorFlow</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/verify/HP9U0MFG4E8J">Natural Language Processing in TensorFlow</a></td>
   </tr>
 </table>
 
