@@ -178,12 +178,16 @@ Access the web app: [Ecopulse Alliance](https://ecopulse.roriama.com/)
 </div>
 
 
-## 4. Nyambene TV - multi-user time-tracking application
-A web-based multi-user time-tracking application built on the [Kimai Open Source application](https://github.com/kimai/kimai) to handle a previously signup and role assignment process.  
-While working at Nyambene Tv as an attatche, I was assigned a role to assess the used manual employee signin and role management system and suggest a smarter solution
+## 4. Activity Logger - Report Automation System
+<sub>July 2025 - Built through ICT intership at Nyambene TV</sub>
+A lightweight reporting assistant that streamlines monthly work report creation. Employees build reusable templates of their typical schedules and only update them when new activities occur.  
+The system tracks responsibilities, daily tasks, and special activities, then compiles everything into standardized Word or PDF reports.
 
+### About
+This project was built during my attachment period to simplify and standardize employee reporting.   
+It reduces repetitive writing, enforces consistency, and saves time by automating the transition from daily activity logging to final monthly reports.
 
-
+### Solution
 
 
 
