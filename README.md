@@ -179,7 +179,8 @@ Access the web app: [Ecopulse Alliance](https://ecopulse.roriama.com/)
 
 
 ## 4. Activity Logger - Report Automation System
-<sub>July 2025 - Built through ICT intership at Nyambene TV</sub>
+<sub>July 2025 - Built through ICT intership at Nyambene TV</sub>  
+
 A lightweight reporting assistant that streamlines monthly work report creation. Employees build reusable templates of their typical schedules and only update them when new activities occur.  
 The system tracks responsibilities, daily tasks, and special activities, then compiles everything into standardized Word or PDF reports.
 
