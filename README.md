@@ -189,6 +189,8 @@ It reduces repetitive writing, enforces consistency, and saves time by automatin
 
 ### Solution
 
+<img width="2229" height="923" alt="Frame 7" src="https://github.com/user-attachments/assets/3833e3d6-75c7-41f8-a1f8-598f1b93fe71" />
+
 
 
 
