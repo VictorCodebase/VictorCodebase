@@ -48,7 +48,7 @@
 
 * [Certifications](#certifications)
 * [Products Portfolio 🔥](#products-portfolio)
-  * [1. Activity Logger - Report Automation System](#1-activity-logger---report-automation-system)
+  * [1. Activity Logger - Report Automation System](#1-activity-logger---report-automation-system) 
   * [2. Association of France Alumni in Kenya (AFRAKEN)](#2-association-of-france-alumni-in-kenya-web-app)
   * [3. Ecopulse Alliance](#3-ecopulse-alliance-web-app)
   * [4. Meadow Intelligence Engine](#4-meadowai)
