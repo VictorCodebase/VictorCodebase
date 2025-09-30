@@ -57,11 +57,10 @@
 ---
 
 # About me
-  - Im a web and android developer👨🏽‍💻.  
-  - I also really enjoy experimenting with other languages and technologies beyond my stack.  
-  - I am particulary interested in Algorithms. Understanding the best implementation of an algorithm to achieve best runtimes given diferent conditions
+If you can imagine it, I can build it.  
+- I am co-founder [Meadow intelligence Suite](https://meadow-ai-umber.vercel.app/), a solution enabling farm managers in Kenya do long term planning despite climate change by making  using  [IPCC climate predictions](https://www.ipcc.ch/report/ar4/wg1/global-climate-projections/) to infer and provide long term agricultural insights in the face of climate change.  
+- Through my time as a free lance developer, I have built multiple products that are now in consumer's hands
 
-Interested in collaborating with me on a project? Please reach out via LinkedIn
 
 <div id="header" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorcodebase&theme=tokyonight" alt="mystreak"/>  
@@ -107,7 +106,8 @@ Figma</a></td>
 # Products Portfolio🔥
 
 ## 1. Activity Logger - Report Automation System
-<sub>July 2025 - Built through ICT intership at Nyambene TV</sub>  
+<sub>July 2025 - Built through ICT intership at Nyambene TV</sub>
+
 
 A lightweight reporting assistant that streamlines monthly work report creation. Employees build reusable templates of their typical schedules and only update them when new activities occur.  
 The system tracks responsibilities, daily tasks, and special activities, then compiles everything into standardized Word or PDF reports.
