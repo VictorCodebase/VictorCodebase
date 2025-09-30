@@ -120,9 +120,19 @@ Learn More about the solution: [LinkedIn Article](https://www.linkedin.com/pulse
 
 ### Solution  
 
-See my work report generated for my period through my Industrial Attachment by the Activity Logger here: [Mark_Kithinji_Report_Jul_01__2025_to_Aug_31__2025.pdf](https://github.com/user-attachments/files/22611359/Mark_Kithinji_Report_Jul_01__2025_to_Aug_31__2025.pdf)
+The Activity Logger generated my work report through a part of my industrial attachment. Download it here:   
 
-Download the Activity Logger for Android here:
+[![Mark_Kithinji_Report_Jul_01__2025_to_Aug_31__2025.pdf](https://img.shields.io/badge/Mark_Kithinji_Report_Jul_01__2025_to_Aug_31__2025-blue?style=for-the-badge&logo=microsoftword)](https://github.com/user-attachments/files/22611359/Mark_Kithinji_Report_Jul_01__2025_to_Aug_31__2025.pdf)
+
+
+Download the Activity Logger for Android here:  
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/VictorCodebase/daily-logger/releases/download/v2.2.1/application-95fcc93d-d6a3-4fc8-a698-2d08b3785991.apk)
+
+
+latest release notes:  
+
+https://github.com/VictorCodebase/daily-logger/releases/latest
+
 
 
 <img width="2229" height="923" alt="Frame 7" src="https://github.com/user-attachments/assets/1fdb7baf-8149-4689-9163-88d5c7a25c7f" />
