@@ -58,7 +58,7 @@
 
 # About me
 If you can imagine it, I can build it.  
-- I am co-founder [Meadow intelligence Suite](https://meadow-ai-umber.vercel.app/), a solution enabling farm managers in Kenya do long term planning despite climate change by making  using  [IPCC climate predictions](https://www.ipcc.ch/report/ar4/wg1/global-climate-projections/) to infer and provide long term agricultural insights in the face of climate change.  
+- I am co-founder [Meadow intelligence Suite](https://meadow-ai-umber.vercel.app/), a solution enabling farm managers in Kenya do long term planning despite climate change by making  using  [IPCC climate predictions](https://www.ipcc.ch/report/ar4/wg1/global-climate-projections/) and Machine Learning to infer and provide long term agricultural insights in the face of climate change.  
 - Through my time as a free lance developer, I have built multiple products that are now in consumer's hands
 
 
