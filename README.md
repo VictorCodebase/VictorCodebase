@@ -118,10 +118,28 @@ It reduces repetitive writing, enforces consistency, and saves time by automatin
 
 Learn More about the solution: [LinkedIn Article](https://www.linkedin.com/pulse/how-i-built-internal-tool-during-my-industrial-now-loves-kithinji-ieltf/?trackingId=JfI6nJbxRAuIFCErN0kw9Q%3D%3D)
 
-### Solution
+### Solution  
 
-<img width="2229" height="923" alt="Frame 7" src="https://github.com/user-attachments/assets/3833e3d6-75c7-41f8-a1f8-598f1b93fe71" />
+See my work report generated for my period through my Industrial Attachment by the Activity Logger here: [Mark_Kithinji_Report_Jul_01__2025_to_Aug_31__2025.pdf](https://github.com/user-attachments/files/22611359/Mark_Kithinji_Report_Jul_01__2025_to_Aug_31__2025.pdf)
 
+Download the Activity Logger for Android here:
+
+
+<img width="2229" height="923" alt="Frame 7" src="https://github.com/user-attachments/assets/1fdb7baf-8149-4689-9163-88d5c7a25c7f" />
+
+### UX/UI Design and Modelling Process
+
+| | |
+|:---:|:---:|
+| ![User Onboarding Flow](https://github.com/user-attachments/assets/db923fd4-4422-41dd-8c9d-77cf7823f79c)<br>**User Authentication & Onboarding**<br>*Security-focused authentication flow with comprehensive user profile management, demonstrating attention to user experience from first interaction* | ![Home Screen Wireframe](https://github.com/user-attachments/assets/66d2ef0f-719d-4e67-b4d1-3fb0b1bdad45)<br>**Home Screen & Activity Management**<br>*User-centered interface design showcasing intuitive navigation patterns and information architecture for daily activity tracking and scheduling* |
+| ![Calendar View Wireframe](https://github.com/user-attachments/assets/b9223e5a-b183-452f-ad50-c5abd4cf6f50)<br>**Calendar Integration & Navigation Flow**<br>*Demonstrates responsive design principles* | ![Export Wizard Interface](https://github.com/user-attachments/assets/7b289499-6f79-4030-9770-6b0297200bc0)<br>**Report Generation Wizard**<br>*Multi-step form design with progressive disclosure, enabling users to customize and export reports in multiple formats with preview capabilities* |
+| ![Data Model Design](https://github.com/user-attachments/assets/48af0a68-1f0b-4c26-acca-d67ddfee338e)<br>**Database Schema & Data Modeling**<br>*Backend architecture planning with normalized database design, showing entity relationships and data structure optimization for scalable system performance* | |
+*These wireframes and design documents demonstrate proficiency in:*
+- Low-fidelity prototyping and rapid ideation
+- User flow mapping and interaction design
+- Database design and system architecture
+- Design thinking methodology
+- Translating complex requirements into intuitive interfaces
 
 
 ## 2. Association of France Alumni in Kenya (web-app)
