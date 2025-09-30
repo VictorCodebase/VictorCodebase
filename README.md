@@ -39,6 +39,22 @@
   </a>
 </p>
 
+---
+
+## 📚 Table of Contents
+
+* [Badges](#badges)
+* [About Me](#about-me)
+
+* [Certifications](#certifications)
+* [Products Portfolio 🔥](#products-portfolio)
+  * [1. Activity Logger - Report Automation System](#1-activity-logger---report-automation-system)
+  * [2. Association of France Alumni in Kenya (AFRAKEN)](#2-association-of-france-alumni-in-kenya-web-app)
+  * [3. Ecopulse Alliance](#3-ecopulse-alliance-web-app)
+  * [4. Meadow Intelligence Engine](#4-meadowai)
+
+
+---
 
 # About me
   - Im a web and android developer👨🏽‍💻.  
@@ -51,21 +67,7 @@ Interested in collaborating with me on a project? Please reach out via LinkedIn
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorcodebase&theme=tokyonight" alt="mystreak"/>  
 </div>
 
----
 
-## 📚 Table of Contents
-
-* [About Me](#about-me)
-* [Badges](#badges)
-* [Certifications](#certifications)
-* [Latest Releases 🔥](#latest-releases)
-
-  * [1. MeadowAI](#1-meadowai)
-  * [2. Association of France Alumni in Kenya (AFRAKEN)](#2-association-of-france-alumni-in-kenya-web-app)
-  * [3. Ecopulse Alliance](#3-ecopulse-alliance-web-app)
-  * [4. Nyambene TV – Time Tracking App](#4-nyambene-tv---multi-user-time-tracking-application)
-
----
 
 
 # Certifications
@@ -102,29 +104,23 @@ Figma</a></td>
 </table>
 
 
-# Latest Releases🔥
+# Products Portfolio🔥
 
+## 1. Activity Logger - Report Automation System
+<sub>July 2025 - Built through ICT intership at Nyambene TV</sub>  
 
-## 1. MeadowAI
-<sub>Jan 2025</sub>
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/e77de4c7-3492-4267-99af-024d2c723202" alt="Meadow AI project header" style="border-radius: 13;"/>
-</p>
+A lightweight reporting assistant that streamlines monthly work report creation. Employees build reusable templates of their typical schedules and only update them when new activities occur.  
+The system tracks responsibilities, daily tasks, and special activities, then compiles everything into standardized Word or PDF reports.
 
+### About
+This project was built during my attachment period to simplify and standardize employee reporting.   
+It reduces repetitive writing, enforces consistency, and saves time by automating the transition from daily activity logging to final monthly reports.
 
-### 🌍 The Issue MeadowAI Is Hoping to Solve
-In underprivileged communities worldwide, small-scale farmers face inequitable access to crucial agricultural information, the result? Multiple farmers growing the same crops a region. This oversaturation every harvest season drives prices down essentially tying farmers in a cycle of poverty.
+Learn More about the solution: [LinkedIn Article](https://www.linkedin.com/pulse/how-i-built-internal-tool-during-my-industrial-now-loves-kithinji-ieltf/?trackingId=JfI6nJbxRAuIFCErN0kw9Q%3D%3D)
 
+### Solution
 
-### Technologies implemented
-- React Native
-- WatsonX Machine Learning
-- Llama Large Language Model
-
-### 🤖 Solution  
-| Home Screen | Crop Prediction | Your Account |
-|-------------|-----------------|--------------|
-| <img src="https://github.com/user-attachments/assets/7562ba04-d246-4fe0-83bf-0787e809f3d4" width="300"> | <img src="https://github.com/user-attachments/assets/31d372ea-6106-418c-837a-81d6252f66df" width="300"> | <img src="https://github.com/user-attachments/assets/16a09bed-101f-4f44-bd65-92879e65262f" width="300"> |
+<img width="2229" height="923" alt="Frame 7" src="https://github.com/user-attachments/assets/3833e3d6-75c7-41f8-a1f8-598f1b93fe71" />
 
 
 
@@ -139,6 +135,9 @@ Built a web application for the Association of France Alumni in Kenya ([AFRAKEN]
 - [Allan Njoroge](https://www.linkedin.com/in/allan-njoroge-868542309/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
 - [Derrick Richard](https://www.linkedin.com/in/derickrichards/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
 - [Rony Maruga](https://www.linkedin.com/in/rony-maruga-a7603b2a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B2bev0RgAQXSGYld2Tw4GUw%3D%3D)
+
+### About
+Learn more About the Solution: [LinkedIn Article](https://www.linkedin.com/feed/update/urn:li:activity:7221769409701265409/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7221769409701265409%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 ### Solution
 Access the web app: [AFRAKEN](https://afraken.org/)
@@ -178,19 +177,30 @@ Access the web app: [Ecopulse Alliance](https://ecopulse.roriama.com/)
 </div>
 
 
-## 4. Activity Logger - Report Automation System
-<sub>July 2025 - Built through ICT intership at Nyambene TV</sub>  
+## 4. MeadowAI
+<sub>Jan 2025</sub>
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/e77de4c7-3492-4267-99af-024d2c723202" alt="Meadow AI project header" style="border-radius: 13;"/>
+</p>
 
-A lightweight reporting assistant that streamlines monthly work report creation. Employees build reusable templates of their typical schedules and only update them when new activities occur.  
-The system tracks responsibilities, daily tasks, and special activities, then compiles everything into standardized Word or PDF reports.
 
-### About
-This project was built during my attachment period to simplify and standardize employee reporting.   
-It reduces repetitive writing, enforces consistency, and saves time by automating the transition from daily activity logging to final monthly reports.
+### 🌍 The Issue MeadowAI Is Hoping to Solve
+In underprivileged communities worldwide, small-scale farmers face inequitable access to crucial agricultural information, the result? Multiple farmers growing the same crops a region. This oversaturation every harvest season drives prices down essentially tying farmers in a cycle of poverty.
 
-### Solution
 
-<img width="2229" height="923" alt="Frame 7" src="https://github.com/user-attachments/assets/3833e3d6-75c7-41f8-a1f8-598f1b93fe71" />
+### Technologies implemented
+- React Native
+- WatsonX Machine Learning
+- Llama Large Language Model
+
+### 🤖 Solution  
+| Home Screen | Crop Prediction | Your Account |
+|-------------|-----------------|--------------|
+| <img src="https://github.com/user-attachments/assets/7562ba04-d246-4fe0-83bf-0787e809f3d4" width="300"> | <img src="https://github.com/user-attachments/assets/31d372ea-6106-418c-837a-81d6252f66df" width="300"> | <img src="https://github.com/user-attachments/assets/16a09bed-101f-4f44-bd65-92879e65262f" width="300"> |
+
+
+
+
 
 
 
