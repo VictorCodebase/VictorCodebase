@@ -137,19 +137,6 @@ https://github.com/VictorCodebase/daily-logger/releases/latest
 
 <img width="2229" height="923" alt="Frame 7" src="https://github.com/user-attachments/assets/1fdb7baf-8149-4689-9163-88d5c7a25c7f" />
 
-### UX/UI Design and Modelling Process
-
-| | |
-|:---:|:---:|
-| ![User Onboarding Flow](https://github.com/user-attachments/assets/db923fd4-4422-41dd-8c9d-77cf7823f79c)<br>**User Authentication & Onboarding**<br>*Security-focused authentication flow with comprehensive user profile management, demonstrating attention to user experience from first interaction* | ![Home Screen Wireframe](https://github.com/user-attachments/assets/66d2ef0f-719d-4e67-b4d1-3fb0b1bdad45)<br>**Home Screen & Activity Management**<br>*User-centered interface design showcasing intuitive navigation patterns and information architecture for daily activity tracking and scheduling* |
-| ![Calendar View Wireframe](https://github.com/user-attachments/assets/b9223e5a-b183-452f-ad50-c5abd4cf6f50)<br>**Calendar Integration & Navigation Flow**<br>*Demonstrates responsive design principles* | ![Export Wizard Interface](https://github.com/user-attachments/assets/7b289499-6f79-4030-9770-6b0297200bc0)<br>**Report Generation Wizard**<br>*Multi-step form design with progressive disclosure, enabling users to customize and export reports in multiple formats with preview capabilities* |
-| ![Data Model Design](https://github.com/user-attachments/assets/48af0a68-1f0b-4c26-acca-d67ddfee338e)<br>**Database Schema & Data Modeling**<br>*Backend architecture planning with normalized database design, showing entity relationships and data structure optimization for scalable system performance* | |
-*These wireframes and design documents demonstrate proficiency in:*
-- Low-fidelity prototyping and rapid ideation
-- User flow mapping and interaction design
-- Database design and system architecture
-- Design thinking methodology
-- Translating complex requirements into intuitive interfaces
 
 
 ## 2. Association of France Alumni in Kenya (web-app)
