@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/markkithinji_ig/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Microsoft%20learn-red?style=for-the-badge&logo=microsoft&logoColor=white" alt="badges Badge"/>
   </a>
-  <a href="https://twitter.com/MarkKithinji5">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
+  <a href="#products-portfolio">
+    <img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge&logo=twiter&logoColor=white" alt="projects Badge"/>
   </a>
 </div>
 
