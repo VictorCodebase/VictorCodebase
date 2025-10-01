@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/mark-kithinji-68aa14246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/markkithinji_ig/">
+  <a href="https://learn.microsoft.com/en-us/users/markkithinji-9759/achievements?tab=tab-modules#trophies-section">
     <img src="https://img.shields.io/badge/Microsoft%20learn-red?style=for-the-badge&logo=microsoft&logoColor=white" alt="badges Badge"/>
   </a>
   <a href="#products-portfolio">
