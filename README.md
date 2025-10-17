@@ -205,7 +205,7 @@ Across developing regions, farm managers face growing uncertainty in agricultura
 
 Meadow Intelligence Suite (MIS) bridges this gap by transforming complex environmental and market data into actionable intelligence. It helps farm managers analyze long-term crop trends, assess investment recovery potential, and model future risk scenarios.
 
-By enabling data-informed decisions today, MIS empowers
+By enabling data-informed decisions today, MIS empowers farms to plan confidently for tomorrow
 ### 🤖 Solution  
 | Home Screen | Crop Prediction | Your Account |
 |-------------|-----------------|--------------|
