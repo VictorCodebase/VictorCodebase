@@ -51,7 +51,7 @@
   * [1. Activity Logger - Report Automation System](#1-activity-logger---report-automation-system) 
   * [2. Association of France Alumni in Kenya (AFRAKEN)](#2-association-of-france-alumni-in-kenya-web-app)
   * [3. Ecopulse Alliance](#3-ecopulse-alliance-web-app)
-  * [4. Meadow Intelligence Engine](#4-meadowai)
+  * [4. Meadow Intelligence Suite - Undergrad Final Project](#4-meadowai)
 
 
 ---
@@ -59,7 +59,7 @@
 # About me
 Eager to Learn. Excited to build. Determined to leave the Earth a better place.
 - I am co-founder [Meadow intelligence Suite](https://meadow-ai-umber.vercel.app/), a solution enabling farm managers in Kenya do long term planning despite climate change by making  using  [IPCC climate predictions](https://www.ipcc.ch/report/ar4/wg1/global-climate-projections/) and Machine Learning to infer and provide long term agricultural insights in the face of climate change.  
-- Whilst student, my desire to problem solve and cause impact has ledc me to build multiple products that are now in consumer's hands. [Products Portfolio](#products-portfolio)
+- Whilst still a student, my desire to problem solve and cause impact has led me to build multiple products that are now in consumer's hands. [Products Portfolio](#products-portfolio)
 
 
 <div id="header" align="center">
@@ -199,15 +199,13 @@ Access the web app: [Ecopulse Alliance](https://ecopulse.roriama.com/)
 </p>
 
 
-### 🌍 The Issue MeadowAI Is Hoping to Solve
-In underprivileged communities worldwide, small-scale farmers face inequitable access to crucial agricultural information, the result? Multiple farmers growing the same crops a region. This oversaturation every harvest season drives prices down essentially tying farmers in a cycle of poverty.
+### 🌍 The Issue Meadow Intelligence Suite (MIS) Is Hoping to Solve
 
+Across developing regions, farm managers face growing uncertainty in agricultural planning. Climate volatility, shifting weather cycles, and unpredictable market prices make long-term decision-making increasingly difficult. As a result, farms risk investing in crops that may not remain viable or profitable in the seasons ahead.  
 
-### Technologies implemented
-- React Native
-- WatsonX Machine Learning
-- Llama Large Language Model
+Meadow Intelligence Suite (MIS) bridges this gap by transforming complex environmental and market data into actionable intelligence. It helps farm managers analyze long-term crop trends, assess investment recovery potential, and model future risk scenarios.
 
+By enabling data-informed decisions today, MIS empowers
 ### 🤖 Solution  
 | Home Screen | Crop Prediction | Your Account |
 |-------------|-----------------|--------------|
