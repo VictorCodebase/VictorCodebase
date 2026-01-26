@@ -201,19 +201,15 @@ Access the web app: [Ecopulse Alliance](https://ecopulse.roriama.com/)
 
 ### 🌍 The Issue Meadow Intelligence Suite (MIS) Is Hoping to Solve
 
-Across developing regions, farm managers face growing uncertainty in agricultural planning. Climate volatility, shifting weather cycles, and unpredictable market prices make long-term decision-making increasingly difficult. As a result, farms risk investing in crops that may not remain viable or profitable in the seasons ahead.  
+Across developing regions, farm managers face growing uncertainty in agricultural planning. Climate volatility, shifting weather cycles, and unpredictable market prices make long-term decision-making increasingly difficult. As a result, it is becoming increasingly harder for farmers to plan ehad and be ready.
 
 Meadow Intelligence Suite (MIS) bridges this gap by transforming complex environmental and market data into actionable intelligence. It helps farm managers analyze long-term crop trends, assess investment recovery potential, and model future risk scenarios.
 
 By enabling data-informed decisions today, MIS empowers farms to plan confidently for tomorrow
 ### 🤖 Solution  
-| Home Screen | Crop Prediction | Your Account |
+| Home Screen | Choose the Prediction Period | ML Crop Matching |
 |-------------|-----------------|--------------|
-| <img src="https://github.com/user-attachments/assets/7562ba04-d246-4fe0-83bf-0787e809f3d4" width="300"> | <img src="https://github.com/user-attachments/assets/31d372ea-6106-418c-837a-81d6252f66df" width="300"> | <img src="https://github.com/user-attachments/assets/16a09bed-101f-4f44-bd65-92879e65262f" width="300"> |
-
-
-
-
+| <img src="https://github.com/user-attachments/assets/7f66e915-079a-4f70-9e42-e688ce3acf5a" width="300"> | <img src="https://github.com/user-attachments/assets/6876aec1-4f54-40dc-a0df-6dbab97ab5d4" width="300"> | <img src="https://github.com/user-attachments/assets/c4c877ea-ffd3-4b28-b23f-7213d4cfb4ef" width="300"> |
 
 
 
