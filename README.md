@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Microsoft%20learn-red?style=for-the-badge&logo=microsoft&logoColor=white" alt="badges Badge"/>
   </a>
   <a href="https://victorcodebase-remote.vercel.app/">
-    <img src="https://img.shields.io/badge/Projects%20Repository-blue?style=for-the-badge&logo=twiter&logoColor=white" alt="projects Badge"/>
+    <img src="https://img.shields.io/badge/Product%20Repository-blue?style=for-the-badge&logo=twiter&logoColor=white" alt="projects Badge"/>
   </a>
 </div>
 
