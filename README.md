@@ -89,18 +89,19 @@ Randomized Algorithms</a></td>
 
 <table align="center">
   <tr>
+    <td><img src="https://github.com/user-attachments/assets/312a1bd3-4786-4706-9af7-c8fffc15778b" alt="Certificate 3" width="410"></td>
     <td><img src="https://user-images.githubusercontent.com/135356007/278609018-c77caa46-04f6-4b47-b112-402d7d7d5322.png" alt="Certificate 1" width="410px"></td>
     <td><img src="https://user-images.githubusercontent.com/135356007/278608989-35985dd9-7570-46b5-a4c3-1af3ab2527af.png" alt="Certificate 2" width="410"></td>
-    <td><img src="https://user-images.githubusercontent.com/135356007/278608945-44f4b2fd-0fad-417a-8dcc-fc4e3af2831f.png" alt="Certificate 3" width="410"></td>
   </tr>
   <tr>
+    <td><a href="https://learn.nvidia.com/certificates?id=dzfX52X0QiKb_u2XDc9giA">Adding New Knowledge to LLMs</a></td>
     <td><a href="https://www.coursera.org/account/accomplishments/certificate/BV4HXUE5AFKY">Foundations of User Experience (UX) Design
 </a></td>
     <td><a href="https://www.coursera.org/account/accomplishments/certificate/4BKD6DLKD3QE">Create High-Fidelity Designs<br> and Prototypes in
 Figma</a></td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/GEKSWYHTJ9D7">Build Dynamic User Interfaces (UI) for Websites</a></td>
   </tr>
 </table>
+<img width="1002" height="721" alt="image" src="https://github.com/user-attachments/assets/312a1bd3-4786-4706-9af7-c8fffc15778b" />
 
 
 # Products Portfolio🔥
