@@ -101,7 +101,6 @@ Randomized Algorithms</a></td>
 Figma</a></td>
   </tr>
 </table>
-<img width="1002" height="721" alt="image" src="https://github.com/user-attachments/assets/312a1bd3-4786-4706-9af7-c8fffc15778b" />
 
 
 # Products Portfolio🔥
