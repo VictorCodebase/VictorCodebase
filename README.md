@@ -1,9 +1,9 @@
 <!-- ![Github logo 2](https://github.com/VictorCodebase/VictorCodebase/assets/135356007/a5266742-8a25-4c64-b601-bec289f6ed4e) -->
-
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="200"/>
 </div>
-
+-->
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/mark-kithinji-68aa14246/">
