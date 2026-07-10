@@ -42,7 +42,7 @@
 ---
 
 ## 📚 Table of Contents
-> [Skip to the end ](#pinned-repositories)
+> [Skip to the end (See pinned repositories) ](#pinned-repositories)
 * [Badges](#badges)
 * [About Me](#about-me)
 
