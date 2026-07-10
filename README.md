@@ -42,7 +42,7 @@
 ---
 
 ## 📚 Table of Contents
-
+> [Skip to the end ](#pinned-repositories)
 * [Badges](#badges)
 * [About Me](#about-me)
 
@@ -212,5 +212,5 @@ By enabling data-informed decisions today, MIS empowers farms to plan confidentl
 | <img src="https://github.com/user-attachments/assets/7f66e915-079a-4f70-9e42-e688ce3acf5a" width="300"> | <img src="https://github.com/user-attachments/assets/6876aec1-4f54-40dc-a0df-6dbab97ab5d4" width="300"> | <img src="https://github.com/user-attachments/assets/c4c877ea-ffd3-4b28-b23f-7213d4cfb4ef" width="300"> |
 
 
-
+# Pinned repositories
 
