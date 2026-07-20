@@ -19,13 +19,16 @@
 
 
 # Badges
+
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.credly.com/badges/63813a12-dd67-41fc-a2bb-eef02912e696/public_url" target="_blank" rel="noreferrer"><img src="https://github.com/VictorCodebase/VictorCodebase/assets/135356007/f034a4c7-7672-4bb5-834b-787da931b0fd" alt="Contribution badge" width="130" height="120"></a></td>
-    <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/MarkKithinji-9759/8FCA11238064E0D3?sharingId=447E623FC6BA2D63"><img src="https://github.com/user-attachments/assets/36f71508-e501-4405-8b63-a2ab76adb003" alt="Microsoft Badge" width="170"></a></td>
+    <td align="center"><a href="creds.awscommunityday.com/c/ACD-ACDKEN-2026-SPK-0003"><img src="https://github.com/user-attachments/assets/edbcef86-0cd1-4dda-84e9-76caece2b040" alt="AWS Speaker badge" width="170"></a></td>
+     <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/MarkKithinji-9759/8FCA11238064E0D3?sharingId=447E623FC6BA2D63"><img src="https://github.com/user-attachments/assets/36f71508-e501-4405-8b63-a2ab76adb003" alt="Microsoft Badge" width="170"></a></td>
   </tr>
   <tr>
     <td><a href="https://www.credly.com/badges/63813a12-dd67-41fc-a2bb-eef02912e696/public_url" target="_blank" rel="noreferrer">Microsoft Open Source Contributor</a></td>
+    <td><a href="creds.awscommunityday.com/c/ACD-ACDKEN-2026-SPK-0003">AWS Community Day Speaker</a></td>
     <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/MarkKithinji-9759/8FCA11238064E0D3?sharingId=447E623FC6BA2D63">AI-900: Azure AI Fundamentals</a></td>
   </tr>
 </table>
