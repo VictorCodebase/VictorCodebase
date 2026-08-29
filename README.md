@@ -47,10 +47,10 @@
 ## Table of Contents
 > [Skip to the end (See pinned repositories) ](#pinned-repositories)
 * [Badges](#badges)
-* [About Me](#about-me)
+* [About Me](#discover-mark-kithinji)
 
 * [Certifications](#certifications)
-* [Products Portfolio 🔥](#products-portfolio)
+* [Products Portfolio ](#products-portfolio)
   * [1. Activity Logger - Report Automation System](#1-activity-logger---report-automation-system) 
   * [2. Association of France Alumni in Kenya (AFRAKEN)](#2-association-of-france-alumni-in-kenya-web-app)
   * [3. Ecopulse Alliance](#3-ecopulse-alliance-web-app)
@@ -59,21 +59,29 @@
 
 ---
 
-# About me
-Eager to Learn. Excited to build. Determined to leave the Earth a better place.
+# Discover Mark Kithinji
+<details>
+  <summary>About Mark</summary>
+  
+  > Eager to `Learn`. Excited to `build`. Determined to `leave the Earth a better place` 🌳
 - Software Developer with hands-on experience in software troubleshooting, cloud-hosted systems and databases. Skilled in investigating root causes through source code, logs, system behavior, and infrastructure analysis, with practical experience across Python, Java, SQL-based applications, Linux cloud environments, and Git workflows.
 - Strong communicator with proven experience supporting and mentoring users, documenting technical solutions, and resolving issues under real-world operational constraints. 
--  Products I have been a part of and stories behind them: [Products Portfolio](#products-portfolio)
+-  Curious to see projects and products I have been a part of and stories behind them: [Products Portfolio](#products-portfolio)
 
 
 <div id="header" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorcodebase&theme=tokyonight" alt="mystreak"/>  
 </div>
+</details>
 
 
 
-
-# Certifications
+  # Certifications
+<details>
+  <summary>
+    View Certifications
+  </summary>
+  
 <table align="center">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/135356007/278609181-0e653377-63d2-4024-a3b3-6e9902872ecc.png" alt="Certificate 1" width="410px"></td>
@@ -105,10 +113,17 @@ Randomized Algorithms</a></td>
 Figma</a></td>
   </tr>
 </table>
+</details>
+
 
 
 # Products Portfolio🔥
 
+<details>
+<summary>
+  View products I have built and the stories behind them
+</summary>
+  
 ## 1. Activity Logger - Report Automation System
 <sub>July 2025 - Built through ICT intership at Nyambene TV</sub>
 
@@ -214,6 +229,8 @@ By enabling data-informed decisions today, MIS empowers farms to plan confidentl
 | Home Screen | Choose the Prediction Period | ML Crop Matching |
 |-------------|-----------------|--------------|
 | <img src="https://github.com/user-attachments/assets/7f66e915-079a-4f70-9e42-e688ce3acf5a" width="300"> | <img src="https://github.com/user-attachments/assets/6876aec1-4f54-40dc-a0df-6dbab97ab5d4" width="300"> | <img src="https://github.com/user-attachments/assets/c4c877ea-ffd3-4b28-b23f-7213d4cfb4ef" width="300"> |
+
+</details>
 
 
 # Pinned repositories
