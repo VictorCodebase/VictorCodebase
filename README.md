@@ -43,7 +43,7 @@
 </p>
 
 ---
-
+<!--
 ## Table of Contents
 > [Skip to the end (See pinned repositories) ](#pinned-repositories)
 * [Badges](#badges)
@@ -55,9 +55,8 @@
   * [2. Association of France Alumni in Kenya (AFRAKEN)](#2-association-of-france-alumni-in-kenya-web-app)
   * [3. Ecopulse Alliance](#3-ecopulse-alliance-web-app)
   * [4. Meadow Intelligence Suite - Undergrad Final Project](#4-meadowai)
-
-
 ---
+!-->
 
 # Discover Mark Kithinji
 <details>
