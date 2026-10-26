@@ -59,8 +59,6 @@
 !-->
 
 # Discover Mark Kithinji
-<details>
-  <summary>About Mark</summary>
   
   > Eager to `Learn`. Excited to `build`. Determined to `leave the Earth a better place` 🌳
 - Software Developer with hands-on experience in software troubleshooting, cloud-hosted systems and databases. Skilled in investigating root causes through source code, logs, system behavior, and infrastructure analysis, with practical experience across Python, Java, SQL-based applications, Linux cloud environments, and Git workflows.
@@ -71,7 +69,7 @@
 <div id="header" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorcodebase&theme=tokyonight" alt="mystreak"/>  
 </div>
-</details>
+
 
 
 
