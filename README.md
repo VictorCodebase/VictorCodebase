@@ -61,7 +61,7 @@
 
 # Discover Mark Kithinji
   
-  > Eager to `Learn`. Excited to `build`. Determined to `leave the Earth a better place` 🌳
+  >   `Who’s using it?` `On what device?` `Over what network?`
 - Software Developer with hands-on experience in software troubleshooting, cloud-hosted systems and databases. Skilled in investigating root causes through source code, logs, system behavior, and infrastructure analysis, with practical experience across Python, Java, SQL-based applications, Linux cloud environments, and Git workflows.
 - Strong communicator with proven experience supporting and mentoring users, documenting technical solutions, and resolving issues under real-world operational constraints. 
 -  Curious to see projects and products I have been a part of and stories behind them?: [Products Portfolio](https://victorcodebase-remote.vercel.app/)
