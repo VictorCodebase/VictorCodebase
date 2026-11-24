@@ -115,11 +115,11 @@ Figma</a></td>
 
 
 
-# Products Portfolio🔥
+# Projects' Portfolio🔥
 
 <details>
 <summary>
-  View products I have built and the stories behind them
+  View projects I have been a part, and the stories behind them
 </summary>
   
 ## 1. Activity Logger - Report Automation System
